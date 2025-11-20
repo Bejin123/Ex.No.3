@@ -41,5 +41,5 @@ Using preceding question prompting, the campaign plan is audience-specific, cult
 
 
 
-# Result: Thus the Prompts were exected succcessfully.
+
 
